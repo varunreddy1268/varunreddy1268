@@ -21,4 +21,10 @@ My expertise lies in training and deploying large-scale machine learning models,
 ---
 [![](https://visitcount.itsvg.in/api?id=varunreddy1268&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+SKILLS:
+
+Programming Languages: Python, Java, C, TypeScript, SQL, MATLAB
+Databases: MySQL Server, Oracle, Mongo DB, AWS Redshift, IBM DB2
+Data Engineering: Data Mining, ETL, Data Warehousing
+Advanced-Data Science: Generative AI, Training Large Language Models, Regression, Clustering, Business Predictions, Classifications, NLP, OpenCV, Timeseries Forecasting, Audio Data (Librosa, Fourier Transformations)
+ML Engineering: AWS CDK, AWS Sage maker, IBM Watson, IBM Kubernetes, Azure Machine Learning, Azure Kubernetes Service
