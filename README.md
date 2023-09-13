@@ -6,13 +6,21 @@
   
 My expertise lies in training and deploying large-scale machine learning models, leveraging AWS, IBM, and Azure Cloud services. Certified as a Data Scientist by Michigan and IBM, I'm also a Kaggle Master. With a penchant for innovation and a commitment to excellence, I aim to make meaningful strides in the field of machine learning and data science. </h5>
 
-SKILLS:
+🚀 Programming Languages:
 
-Programming Languages: Python, Java, C, TypeScript, SQL, MATLAB
-Databases: MySQL Server, Oracle, Mongo DB, AWS Redshift, IBM DB2
-Data Engineering: Data Mining, ETL, Data Warehousing
-Advanced-Data Science: Generative AI, Training Large Language Models, Regression, Clustering, Business Predictions, Classifications, NLP, OpenCV, Timeseries Forecasting, Audio Data (Librosa, Fourier Transformations)
-ML Engineering: AWS CDK, AWS Sage maker, IBM Watson, IBM Kubernetes, Azure Machine Learning, Azure Kubernetes Service
+Python, Java, C, TypeScript, SQL, MATLAB
+🛢️ Databases:
+
+MySQL Server, Oracle, MongoDB, AWS Redshift, IBM DB2
+🔧 Data Engineering:
+
+Data Mining, ETL, Data Warehousing
+🔬 Advanced Data Science:
+
+Generative AI, Training Large Language Models, Regression, Clustering, Business Predictions, Classifications, NLP, OpenCV, Timeseries Forecasting, Audio Data (Librosa, Fourier Transformations)
+⚙️ ML Engineering:
+
+AWS CDK, AWS SageMaker, IBM Watson, IBM Kubernetes, Azure Machine Learning, Azure Kubernetes Service
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-reddy-seelam-1b01841b3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@varunreddyseelam1268) 
