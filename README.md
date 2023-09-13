@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi Viewer 👋, I'm Varun</h1>
+
 I'm Varun Reddy Seelam, a Machine Learning Engineer/Data Scientist with over two years of industry experience. Currently pursuing a Master's in Computer Software Engineering at San Jose State University, I anticipate graduating in December 2023. My expertise lies in crafting and deploying large-scale machine learning models, leveraging AWS, IBM, and Azure Cloud services.Certified as a Data Scientist by Michigan and IBM, I'm also a Kaggle Master. With a penchant for innovation and a commitment to excellence, I aim to make meaningful strides in the field of machine learning and data science.
 
 
