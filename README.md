@@ -1,5 +1,7 @@
 <h1 align="center">Hi Viewer 👋, I'm Varun</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunreddy1268&label=Profile%20views&color=0e75b6&style=flat" alt="varunreddy1268" /> </p>
+
 <h5> I'm Varun Reddy Seelam, a Machine Learning Engineer/Data Scientist with over two years of industry experience. Currently pursuing a Master's in Computer Software Engineering at San Jose State University, I anticipate graduating in December 2023. My expertise lies in crafting and deploying large-scale machine learning models, leveraging AWS, IBM, and Azure Cloud services.Certified as a Data Scientist by Michigan and IBM, I'm also a Kaggle Master. With a penchant for innovation and a commitment to excellence, I aim to make meaningful strides in the field of machine learning and data science. </h5>
 
 
