@@ -30,5 +30,5 @@ AWS CDK, AWS SageMaker, IBM Watson, IBM Kubernetes, Azure Machine Learning, Azur
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunreddy1268&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 "True expertise is forged through daily dedication, not just by the years spent"
